@@ -16,7 +16,7 @@
 
 ---
 
-## `<a id="chinese"></a>`🇨🇳 中文版本
+## <a id="chinese"></a>🇨🇳 中文版本
 
 ### 📖 项目概述
 
@@ -102,7 +102,7 @@ M Speak Web is an innovative AI-powered social expression assistant platform des
 
 🙌 我们需要你的反馈！
 
-mspeak 目前处于 **早期验证阶段**，我们正在寻找真实用户帮助我们打磨产品。如需登录体验更多功能，请在反馈问卷里提供您的邮箱，我们将为前100个用户发送体验码。
+M Speak 目前处于 **早期验证阶段**，我们正在寻找真实用户帮助我们打磨产品。如需登录体验更多功能，请在反馈问卷里提供您的邮箱，我们将为前100个用户发送体验码。
 
 ✅ 花 **1 分钟** 填写反馈问卷 → [点击这里填写问卷](https://www.wjx.cn/vm/Oxewuwi.aspx# )
 
