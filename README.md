@@ -58,7 +58,7 @@ M Speak 是一个创新的AI智能社交表达助手，专为现代社交场景�
 
 ---
 
-## `<a id="english"></a>`🇺🇸 English Version
+## <a id="english"></a>🇺🇸 English Version
 
 ### 📖 Project Overview
 
