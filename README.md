@@ -53,7 +53,7 @@ M Speak 是一个创新的AI智能社交表达助手，专为现代社交场景�
 
 ### 📞 联系我们
 
-- 项目主页: [GitHub Repository]([git@github.com:ChiQt/MSpeak.git](https://github.com/ChiQt/MSpeak))
+- 项目主页:  [GitHub Repository](https://github.com/ChiQt/MSpeak)
 - 问题反馈: [Issues](https://github.com/ChiQt/MSpeak/issues)
 - 功能建议: [Discussions](https://github.com/ChiQt/MSpeak/discussions)
 
